@@ -2,6 +2,7 @@
 fastapi==0.68.0
 uvicorn==0.15.0
 python-dotenv==1.0.0
+gunicorn==21.2.0
 
 # Web3 with pinned compatible versions
 web3==5.31.3
